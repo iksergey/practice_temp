@@ -1,0 +1,1 @@
+# ,dfpsdfgdfgdfgdg  gtergdfg dfertgreg марк  command 'markdown.extension.onEnterKey' not found не могу печатать  какая то ошибка, 
