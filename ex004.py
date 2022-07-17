@@ -9,4 +9,4 @@ index = 0
 while index <= n:
     if (index % 10) % 4 == 0:
         print(index, end=" ")
-    index += 1
+    index += 2
