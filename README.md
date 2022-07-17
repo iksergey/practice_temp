@@ -16,3 +16,5 @@
 12. Инструкция по созданию pull request
 13. Книги и полезные ссылки по изучению git.
 14. Альтернативные системы контроля версий.
+
+<font size="6" color="orange" face="Comic sans ms">СМОТРИТЕ ФАЙЛ exercise 1.md </font>
