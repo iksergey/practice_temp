@@ -19,4 +19,8 @@
 
 ## _*Ответ на вопрос 8*_
 
-_git branch_ - dsdjl
+- **git branch** – _просмотр всех веток;_
+- **git branch "branch_name"** – _создание новой ветки;_
+- **git branch -d "branch_name"** – _удаление ветки;_
+- **git merge "branch_name"** – _слияние веток;_
+- **git merge --abort** – _отменить слияние веток;_
